@@ -1,7 +1,5 @@
 
-import json
-
-file = open('data.json')
+var file = open('data.json')
 data = json.load(file)
 
 print('Bem vindo ao gerenciadorRPG! O que deseja fazer?')
