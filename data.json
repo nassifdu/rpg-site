@@ -1,0 +1,28 @@
+{
+	"Armas":{
+		"Espadas":[
+			{
+				"nome":"Espada de Madeira",
+				"materiais":["Madeira"],
+				"descricao":"Uma espada feita completamente de madeira.",
+				"tamanho":3,	
+				"peso":800,
+				"dano":"1d6",
+				"danoTipo":"Cortante",
+				"critico":20
+			}
+		],
+		"Arcos":[
+			{
+				"nome":"Arco de Madeira",
+				"materiais":["Madeira","Linha"],
+				"descricao":"Um arco feito completamente de madeira.",
+				"tamanho":3,	
+				"peso":500,
+				"dano":"1d6",
+				"danoTipo":"Perfurante",
+				"critico":20
+			}
+		]
+	}
+}
